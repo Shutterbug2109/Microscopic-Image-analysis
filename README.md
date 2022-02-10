@@ -3,7 +3,7 @@
 # Tasks:
 ### 1) Use python to programmatically download/read a 16-bit TIF micrograph with fluorescently labelled cell nuclei from the following location:
 https://github.com/Shutterbug2109/Microscopic-Image-analysis/raw/main/Sample.tif
-### Once loaded display the images, scale them appropriately to ensure the cell nuclei are visible.
+Once loaded display the images, scale them appropriately to ensure the cell nuclei are visible.
 NB: Make sure to import all the necessary libraries allowing you to load raw TIFs.
 
 ### 2) Use an arbitrary threshold value (defined manually) to convert nuclei from the grayscale image to a binary mask. Once done - display the mask and the raw image side-by-side.
